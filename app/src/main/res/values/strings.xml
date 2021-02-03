@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Material Design</string>
+    <string name="content_text">Androids bottom app bar component APIs provide support for the navigation icon, action items, overflow menu and more for informing the user as to what each action performs. While optional, their use is strongly encouraged.</string>
+    <string name="content_text_description">android:contentDescription or use the setContentDescription method on the BottomAppBar.For the navigation icon, this can be achieved via the app:navigationContentDescription attribute or setNavigationContentDescription method.</string>
+    <string name="content_API_Documentation">CoordinatorLayout
+        Class definition
+    BottomAppBar
+        Class definition
+        Class source
+    FloatingActionButton
+        Class definition
+        Class source</string>
+    <string name="content_key_properties">Container
+    Navigation icon (optional)
+    Floating action button (FAB) (optional)
+    Action item(s) (optional)
+    Overflow menu (optional)</string>
+    <string name="_6_photos">6 Photos</string>
+    <string name="_735">$735</string>
+    <string name="stock_ada_5_buah">Stock ada 5 buah</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="dijual_oleh">Dijual oleh</string>
+    <string name="narenda_wicaksono">Narenda Wicaksono</string>
+    <string name="beli">Beli</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
